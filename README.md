@@ -17,3 +17,9 @@ like
 * a link
 
 [lots of dogs](https://www.goodhousekeeping.com/life/pets/g4531/cutest-dog-breeds/)
+
+* a block of code
+
+```python
+print("dogs are cute")
+```
